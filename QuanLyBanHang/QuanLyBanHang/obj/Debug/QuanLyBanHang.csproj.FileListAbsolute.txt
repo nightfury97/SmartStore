@@ -1,0 +1,65 @@
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fLogin.resources
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fTableManager.resources
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\ketnoicsdl.dll
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\ketnoicsdl.pdb
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\ketnoicsdl.dll.config
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\ketnoicsdl.dll
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\ketnoicsdl.pdb
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\ketnoicsdl.dll.config
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+D:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fLogin.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fTableManager.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\ketnoicsdl.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\ketnoicsdl.pdb
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\ketnoicsdl.dll.config
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fLogin.resources
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fTableManager.resources
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Diagnostics.Tracer.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Net.Mqtt.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Reactive.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Reactive.Interfaces.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Diagnostics.Tracer.pdb
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Diagnostics.Tracer.xml
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Net.Mqtt.xml
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Reactive.xml
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Reactive.Interfaces.xml
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\M2Mqtt.Net.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\QuanLyBanHang\bin\Debug\M2Mqtt.Net.pdb

@@ -1,0 +1,22 @@
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\obj\Debug\ketnoicsdl.csprojResolveAssemblyReference.cache
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\bin\Debug\ketnoicsdl.dll.config
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\bin\Debug\ketnoicsdl.dll
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\bin\Debug\ketnoicsdl.pdb
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\bin\Debug\EntityFramework.dll
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\bin\Debug\EntityFramework.xml
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\obj\Debug\ketnoicsdl.dll
+C:\Users\ThaoLe\documents\visual studio 2017\Projects\QuanLyBanHang\ketnoicsdl\obj\Debug\ketnoicsdl.pdb
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\bin\Debug\ketnoicsdl.dll.config
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\bin\Debug\ketnoicsdl.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\bin\Debug\ketnoicsdl.pdb
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\bin\Debug\EntityFramework.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\bin\Debug\EntityFramework.xml
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\obj\Debug\ketnoicsdl.csprojAssemblyReference.cache
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\obj\Debug\ketnoicsdl.csproj.CoreCompileInputs.cache
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\obj\Debug\ketnoicsdl.csproj.CopyComplete
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\obj\Debug\ketnoicsdl.dll
+D:\Driver\DoAnCuoiKhoa\QuanLyBanHang\ketnoicsdl\obj\Debug\ketnoicsdl.pdb
